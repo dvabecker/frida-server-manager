@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Frida Server Manager</string>
+    <string name="select_frida_version">[Tap to select Frida server…]</string>
+    <string name="frida_running_label">Frida server running with PID %s</string>
+    <string name="select_frida_server_label">Select Frida server file to run</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="help">Help</string>
+</resources>
